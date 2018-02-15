@@ -3,10 +3,7 @@
 $(document).ready(function(){
 
 // call functions here
-getIt(){
-  $('p').on("eventname", function(){
-    //action you want taken
-});
-}
+//action you want taken
+
 
 });
